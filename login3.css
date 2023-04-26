@@ -1,0 +1,262 @@
+h1 {
+    color: rgb(19, 95, 236);
+    font-size: 70px;
+    margin-top: 5px;
+    font-family: monospace;
+    margin-left: -265px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-image: url("Varios.jpg");
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background: #d2f0eaab;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 150px;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #fefefe;
+}
+
+.nav-bar ul {
+    display: flex;
+}
+
+.nav-bar ul li a {
+    display: block;
+    color: #000000;
+    font-size: 20px;
+    padding: 10px 25px;
+    border-radius: 50px;
+    transition: 0.2s;
+    margin: 0 5px;
+}
+
+.nav-bar ul li a:hover {
+    color: #ffffff;
+    background: #00aeff;
+}
+
+.container {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+
+.Cadastro form {
+    display: inline-block;
+    flex-direction: column;
+    width: 10%;
+
+}
+
+.Cadastro {
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 115px;
+    
+}
+
+.Cadastro label {
+    font-size: 25px;
+}
+
+.Cadastro input {
+    width: 750px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.butao {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+
+
+}
+
+.butao input {
+    width: 295px;
+    height: 65px;
+    font-size: 30px;
+    border-radius: 15px;
+    background-color: aqua;
+    margin-right: 500px;
+
+}
+
+.butao button {
+    font-size: 35px;
+    border-radius: 15px;
+    height: 70px;
+    margin-right: 100px;    
+width: 350px;
+
+
+}
+
+.butao img {
+    height: 26px;
+    width: 30px;
+    margin-top: 13px;
+    margin-left: 17px;
+}
+
+.pobrema section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    float: right;   
+    margin-right: 300px;
+    margin-top: -400px;
+    
+
+}
+
+.pobrema section a {
+    padding: 30px;
+}
+
+.pobrema section button {
+    background-color: rgb(90, 243, 243);
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.check #check {
+    height: 20px;
+    width: 20px;
+    margin-top: 7px;
+    margin-left: 440px;
+}
+.batata{
+    height: 20px;
+    width: 200px;
+    margin-top: -27px;
+    margin-left: 470px;
+    
+}   
+.check2 #check {
+    height: 20px;
+    width: 20px;
+    margin-top: 0px;
+    margin-left: 790px;
+}
+.batata2{
+    height: 20px;
+    width: 200px;
+    margin-top: -48px;
+    margin-left: 820px;
+    font-size: 17px;
+    
+}
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    margin-top: -10px;
+}
+
+body {
+    font-size: 20px;
+    font-family: InriaSerif, cursive;
+    min-height: 100%;
+    margin-top: -10;
+}
+
+.content {
+    padding: 120px 20px;
+    margin-top: -10px;
+}
+
+footer {
+    padding: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: -5px;
+}
+
+
+
+.Logo img {
+    width: 100px;
+    height: 100px;
+    letter-spacing: -15px;
+    margin-top: -10px;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    position: static;
+    padding: 10px 130px;
+    margin-top: -15px;
+    background-color: #E2DFDF;
+
+    position: absolute;
+    margin-top: 224px;
+}
+
+footer p {
+    padding-right: 1190px;
+    margin: 40px;
+    margin-top: -10px;
+}
+
+p {
+    font-family: InriaSerif, cursive;
+}
+
+.WhatsApp {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 800px;
+    margin-top: -5px;
+}
+
+.Instagram {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 880px;
+    margin-top: -5px;
+}
+
+.Facebook {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 970px;
+    margin-top: -5px;
+}
+
+.Twitter {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 1060px;
+    margin-top: -5px;
+}
